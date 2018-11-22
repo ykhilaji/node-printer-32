@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node-printer
 ============
 Native bind printers on POSIX and Windows OS from Node.js, iojs and node-webkit.
@@ -107,3 +108,7 @@ Feel free to download, test and propose new futures
 
 ### License:
  [The MIT License (MIT)](http://opensource.org/licenses/MIT)
+=======
+# node-printer-32
+node-printer-32
+>>>>>>> 49a812e7e4c788cc96ea9ec55ee179ebb4a0a9f0
